@@ -7,4 +7,4 @@ Solution de comptage événementiel temps réel réalisée dans le cadre du BTS 
 **Mon rôle :** Backend Node.js · PostgreSQL · MQTT · WebSocket · VPS OVH
 
 
-[Voir le projet →](https://github.com/Projet-Comptage-Evenementiel)
+[Voir le projet →](https://github.com/Mrnoodles/Projet-Comptage-Evenementiel)
